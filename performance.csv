@@ -1,0 +1,19 @@
+﻿ID,EVALUATION_RATING,REPORTS_TO,FEEDBACK_COMMENT,SATISFACTION_INDEX
+100001,5,100001,I'm the CEO and I'm proud of this company,5
+100002,3.8,100001,My bosses  support providing better service,4.7
+100003,4.4,100002,My peers do not listen to me on our strategy,4.1
+100004,3.5,100003,My bosses do not support generating revenue,4.5
+100005,4.7,100004,My bosses do not listen to me on our vision of the future,3
+100006,4.5,100005,My bosses  provide guidance about generating revenue,4.5
+100007,4.7,100006,My peers do not support generating revenue,4.8
+100008,4,100007,My peers do not communicate about providing better service,4.2
+100009,3.5,100008,My peers  support generating revenue,3.9
+100010,3.9,100009,My peers  support our vision of the future,4.5
+100011,3.9,100010,My peers  provide guidance about our vision of the future,3.8
+100012,3.7,100011,My peers  provide guidance about our vision of the future,3.1
+100013,4.8,100012,My peers  communicate about our vision of the future,4.5
+100014,4.9,100013,My bosses do not support our strategy,3.2
+100015,4.9,100014,My peers  communicate about our strategy,3.7
+100016,3.5,100015,My peers do not communicate about our vision of the future,4.6
+100017,4.4,100011,My peers  provide guidance about providing better service,4.8
+100018,4,100009,My peers do not support generating revenue,3.7
